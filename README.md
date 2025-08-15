@@ -1,5 +1,9 @@
 # name_app
 
+<img width="794" height="626" alt="Image" src="https://github.com/user-attachments/assets/99d11d47-d570-452a-958a-39d274e02bba" />
+
+<img width="791" height="627" alt="Image" src="https://github.com/user-attachments/assets/f59a269d-d6eb-48a3-ae41-8bfd6eadb743" />
+
 A new Flutter project.
 
 ## Getting Started
